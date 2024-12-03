@@ -1,0 +1,17 @@
+ESTE PROJETO É REFERENTE AO TRABALHO DE EXTENSÃO - UNIFAVIP Wyden.
+
+A aplicação foi desenvolvida em python, utilizando  para funcionamento em outras versões,
+o objetivo deste projeto é oferecer aos usuários um controle financeiro que seja fácil de usar, intuitivo e transparente.
+A ideia é criar uma ferramenta prática que simplifique o gerenciamento de finanças pessoais, reduzindo preocupações e tornando esse processo mais acessível para todos.
+No contexto acadêmico, o projeto busca mostrar minhas habilidades de programação e a capacidade de criar soluções aplicáveis.
+Além disso, ele faz parte do trabalho de conclusão do curso, onde procuro unir teoria e prática em uma aplicação útil e relevante.
+Acredito que o projeto atendeu às expectativas, trazendo soluções que realmente ajudam o usuário.
+O resultado final reflete o esforço em criar algo funcional e alinhado às necessidades das pessoas no dia a dia.
+
+
+ 
+ PARA VISUALIZAÇÃO DO PROJETO:
+ - Baixar python
+ - Baixar Libs, executar no terminal comando - python install -r requirements.txt
+ - Executar a aplicação "myindex.py"
+ - Abrir server local
